@@ -26,20 +26,24 @@ semiconductor devices and embedded systems.
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-### Languages
-
+### 💻 Programming & HDL
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-555555?style=for-the-badge&logoColor=white)
 
-### Tools & Platforms
+### ⚙️ EDA & Simulation Tools
+![Vivado](https://img.shields.io/badge/AMD_Vivado-ED1C24?style=for-the-badge&logoColor=white)
+![Silvaco](https://img.shields.io/badge/Silvaco_ATLAS-236B8E?style=for-the-badge&logoColor=white)
+![Verilator](https://img.shields.io/badge/Verilator-34495E?style=for-the-badge&logoColor=white)
 
+### 🖥️ Development Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-`Verilog` `FPGA` `RISC-V` `Silvaco ATLAS`
 
 ---
 
