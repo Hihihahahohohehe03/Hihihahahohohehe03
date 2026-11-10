@@ -1,9 +1,5 @@
 <div align="center">
   <img src="./hippo.png" width="180" alt="HIPPO LAB Mascot">
-
-  <h1>🦛 HIPPO LAB</h1>
-
-  <p>Electronics Engineering | Semiconductor | Embedded Systems</p>
 </div>
 
 <div align="center">
